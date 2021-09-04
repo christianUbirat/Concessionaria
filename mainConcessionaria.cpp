@@ -1,12 +1,5 @@
 /*
->Discente: Christian Ubiratan da Silva Barbosa  Filho
->Matrícula: 120110013
->Período: 2º
->Curso: Engenharia Elétrica
->Disciplina: Técnicas de Programação
->Turma: 01
->Professor: Marcus Salerno
->Unidade 1: LVP-15
+Christian Ubiratan
 
 > Feito no VS Code
 
